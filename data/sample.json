@@ -1,0 +1,10 @@
+{
+    "tags": ["mytag", "myothertag"],
+    "lon": 1.7976931348623157e308,
+    "text":
+        "Meeting: Acme Widget Co\nAttendees: Tyler, Jane\n\nThis is the body of my note and it has _italic_ and **bold** and supports Markdown.",
+    "music_artist": "",
+    "date_modified": 1506371214718,
+    "date_journal": 1506371145426,
+    "lat": 40.6504133
+}
