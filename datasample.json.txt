@@ -1,4 +1,0 @@
-Meeting: Acme Widget Co
-Attendees: Tyler, Jane
-
-This is the body of my note and it has _italic_ and **bold** and supports Markdown.
